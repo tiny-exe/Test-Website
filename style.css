@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#Middle {
+  text-align: center;
+  font-family: Brush Script MT;
+  font-size: 30px;
+  color: red;
+  background-color: #1f1f1f;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#dark {
+  background-color: #1f1f1f;
+  color: #7e8f8e;
+  font-family: Brush Script MT;
+  font-size: 20px;
+  border-radius: 0px;
+  border-color: #7e8f8e;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+#welcome {
+  color: white;
+  font-family: Brush Script MT;
+  font-size: 30px;
+}
+
+.dark-mode {
+  background-color: #464646;
+  color: white;
+}
